@@ -18,9 +18,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e97a996-097d-4c9b-a262-08ad78490dcc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/wdkapps/fillup/Vehicle.java" afterPath="$PROJECT_DIR$/src/com/github/wdkapps/fillup/Vehicle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/wdkapps/fillup/VehicleDialog.java" afterPath="$PROJECT_DIR$/src/com/github/wdkapps/fillup/VehicleDialog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/wdkapps/fillup/GasLog.java" afterPath="$PROJECT_DIR$/src/com/github/wdkapps/fillup/GasLog.java" />
     </list>
     <ignored path="FillUp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,19 +40,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="VehicleDialog.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/github/wdkapps/fillup/VehicleDialog.java">
+      <file leaf-file-name="GasLog.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/github/wdkapps/fillup/GasLog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3978022">
-              <caret line="139" column="17" selection-start-line="139" selection-start-column="17" selection-end-line="139" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.7758242">
+              <caret line="316" column="23" selection-start-line="316" selection-start-column="23" selection-end-line="316" selection-end-column="23" />
               <folding>
-                <element signature="e#3799#5704#0" expanded="true" />
-                <element signature="e#4179#4229#0" expanded="true" />
-                <element signature="e#4458#4509#0" expanded="true" />
-                <element signature="e#4711#4762#0" expanded="true" />
-                <element signature="e#4960#5010#0" expanded="true" />
-                <element signature="e#5256#5311#0" expanded="true" />
-                <element signature="e#5703#5704#0" expanded="true" />
+                <element signature="e#6641#6642#0" expanded="true" />
+                <element signature="e#6676#6677#0" expanded="true" />
+                <element signature="e#12127#12183#0" expanded="true" />
+                <element signature="e#13066#13122#0" expanded="true" />
+                <element signature="e#13525#13534#0" expanded="true" />
+                <element signature="e#17358#17416#0" expanded="true" />
+                <element signature="e#18349#18407#0" expanded="true" />
+                <element signature="e#19020#19031#0" expanded="true" />
+                <element signature="e#22581#22634#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,6 +78,7 @@
         <option value="$PROJECT_DIR$/res/layout/dialog_vehicle.xml" />
         <option value="$PROJECT_DIR$/src/com/github/wdkapps/fillup/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/com/github/wdkapps/fillup/VehicleDialog.java" />
+        <option value="$PROJECT_DIR$/src/com/github/wdkapps/fillup/GasLog.java" />
       </list>
     </option>
   </component>
@@ -359,7 +360,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19937205" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.05939005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26003212" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -442,8 +443,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/github/wdkapps/fillup/VehicleDialog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3978022">
-          <caret line="139" column="17" selection-start-line="139" selection-start-column="17" selection-end-line="139" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.5472528">
+          <caret line="143" column="25" selection-start-line="143" selection-start-column="25" selection-end-line="143" selection-end-column="25" />
           <folding>
             <element signature="e#3799#5704#0" expanded="true" />
             <element signature="e#4179#4229#0" expanded="true" />
@@ -452,6 +453,24 @@
             <element signature="e#4960#5010#0" expanded="true" />
             <element signature="e#5256#5311#0" expanded="true" />
             <element signature="e#5703#5704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/wdkapps/fillup/GasLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7758242">
+          <caret line="316" column="23" selection-start-line="316" selection-start-column="23" selection-end-line="316" selection-end-column="23" />
+          <folding>
+            <element signature="e#6641#6642#0" expanded="true" />
+            <element signature="e#6676#6677#0" expanded="true" />
+            <element signature="e#12127#12183#0" expanded="true" />
+            <element signature="e#13066#13122#0" expanded="true" />
+            <element signature="e#13525#13534#0" expanded="true" />
+            <element signature="e#17358#17416#0" expanded="true" />
+            <element signature="e#18349#18407#0" expanded="true" />
+            <element signature="e#19020#19031#0" expanded="true" />
+            <element signature="e#22581#22634#0" expanded="true" />
           </folding>
         </state>
       </provider>
