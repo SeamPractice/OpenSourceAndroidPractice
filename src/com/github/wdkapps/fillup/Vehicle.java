@@ -82,7 +82,7 @@ public class Vehicle implements Serializable {
 		this.brand = new String(that.brand);
 		this.type = new String(that.type);
 	}
-	
+
 	/**
 	 * DESCRIPTION:
 	 * Getter method for the vehicle id attribute.
@@ -95,7 +95,7 @@ public class Vehicle implements Serializable {
 	/**
 	 * DESCRIPTION:
 	 * Setter method for the vehicle id attribute.
-	 * @param id - the Integer vehicle id value. 
+	 * @param id - the Integer vehicle id value.
 	 */
 	public void setID(Integer id) {
 		this.id = id;
@@ -117,27 +117,27 @@ public class Vehicle implements Serializable {
 	 * @throws IllegalArgumentException if the string is not a valid vehicle name.
 	 */
 	public void setName(String name) {
-		
+
 		// can't be null
-		if (name == null) 
+		if (name == null)
 			throw new IllegalArgumentException("null string");
-		
+
 		// range check the string length
 		if ((name.length() < MIN_NAME_LENGTH) ||
 			(name.length() > MAX_NAME_LENGTH))
 			throw new IllegalArgumentException("invalid name length");
-		
+
 		// must be a valid filename (for import/export)
-		final String VALID_NAME_REGEX = "[a-zA-z0-9][a-zA-z0-9- ]*"; 
-		if (!name.matches(VALID_NAME_REGEX)) 
+		final String VALID_NAME_REGEX = "[a-zA-z0-9][a-zA-z0-9- ]*";
+		if (!name.matches(VALID_NAME_REGEX))
 			throw new IllegalArgumentException("invaid format");
 
 		this.name = name;
 	}
-	
+
 	/**
 	 * DESCRIPTION:
-	 * Getter method for the vehicle tank size attribute. 
+	 * Getter method for the vehicle tank size attribute.
 	 * @return the vehicle tank size float value.
 	 */
 	public Float getTankSize() {
@@ -152,7 +152,7 @@ public class Vehicle implements Serializable {
 	public void setTankSize(Float tankSize) {
 		this.tanksize = tankSize;
 	}
-	
+
 	/**
 	 * DESCRIPTION:
 	 * Getter method for the vehicle tank size attribute.
@@ -169,15 +169,15 @@ public class Vehicle implements Serializable {
 	 * @throws NumberFormatException if String parse fails.
 	 */
 	public void setTankSize(String tankSize) {
-		
-		if (tankSize == null) 
+
+		if (tankSize == null)
 			throw new NumberFormatException("null string");
 
 		float value = Float.parseFloat(tankSize.replace(',','.'));
-		
+
 		if ((value < 1.0f) || (value > 1000f))
 			throw new NumberFormatException("out of range");
-		
+
 		this.tanksize = value;
 	}
 
@@ -192,9 +192,12 @@ public class Vehicle implements Serializable {
 		//Can't be null
 		if(plate == null)
 			throw new IllegalArgumentException("null string");
-		//range check the string lenght
+
+		//range check the string length
 		if((plate.length()< MIN_NAME_LENGTH) || (plate.length() > MAX_NAME_LENGTH))
-			throw new IllegalArgumentException("invalid brand name lenght");
+			throw new IllegalArgumentException("invalid brand name length");
+
+		//must be a valid filename (for import/export)
 		final String VALID_NAME_REGEX = "[a-zA-z0-9][a-zA-z0-9- ]*";
 		if(!plate.matches(VALID_NAME_REGEX))
 			throw new IllegalArgumentException("invalid format");
@@ -210,9 +213,12 @@ public class Vehicle implements Serializable {
 		//Can't be null
 		if(brand == null)
 			throw new IllegalArgumentException("null string");
-		//range check the string lenght
+
+		//range check the string length
 		if((brand.length()< MIN_NAME_LENGTH) || (brand.length() > MAX_NAME_LENGTH))
-			throw new IllegalArgumentException("invalid brand name lenght");
+			throw new IllegalArgumentException("invalid brand name length");
+
+		//must be a valid filename (for import/export)
 		final String VALID_NAME_REGEX = "[a-zA-z0-9][a-zA-z0-9- ]*";
 		if(!brand.matches(VALID_NAME_REGEX))
 				throw new IllegalArgumentException("invalid format");
@@ -228,14 +234,17 @@ public class Vehicle implements Serializable {
 		//Can't be null
 		if(type == null)
 			throw new IllegalArgumentException("null string");
-		//range check the string lenght
+
+		//range check the string length
 		if((type.length()< MIN_NAME_LENGTH) || (type.length() > MAX_NAME_LENGTH))
-			throw new IllegalArgumentException("invalid brand name lenght");
+			throw new IllegalArgumentException("invalid brand name length");
+
+		//must be a valid filename (for import/export)
 		final String VALID_NAME_REGEX = "[a-zA-z0-9][a-zA-z0-9- ]";
 		if(!type.matches(VALID_NAME_REGEX))
 			throw new IllegalArgumentException("invalid format");
 
-		this.brand = brand;
+		this.type = type;
 	}
 
 	/**
