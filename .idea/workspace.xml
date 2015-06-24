@@ -8,152 +8,17 @@
       </filter>
     </filters>
   </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.github.wdkapps.fillup" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e97a996-097d-4c9b-a262-08ad78490dcc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/App.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CheatSheet$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CheatSheet$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CheatSheet$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CheatSheet$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CheatSheet$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CheatSheet$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CheatSheet$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CheatSheet$Trigger.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CheatSheet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/ConfirmationDialog$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/ConfirmationDialog$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/ConfirmationDialog$Listener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/ConfirmationDialog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CostPlot$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CostPlot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CurrencyFormatter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/CurrencyManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/DataEntryMode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/DataEntryModeDialog$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/DataEntryModeDialog$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/DataEntryModeDialog$Listener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/DataEntryModeDialog$Result.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/DataEntryModeDialog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/DateComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/DateTimeActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/ExternalStorage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/FileSelectionActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/FileSelectionActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/FileSelectionActivity$ComparatorIgnoreCase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/FileSelectionActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/FileSelectionListAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/FillUp.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/FillUp.unaligned.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/FractionalCurrencyFormatter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GallonsPlot$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GallonsPlot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasGauge$OnHandPositionChangedListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasGauge.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasLog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasLogListActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasLogListAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasLogOpenHelper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasRecord.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasRecordActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasRecordActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasRecordActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasRecordList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasRecordWatcher$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasRecordWatcher$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasRecordWatcher$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/GasRecordWatcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/HtmlData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/HtmlViewerActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/HtmlViewerActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/InformationDialog$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/InformationDialog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MainActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MappedLabelFormat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MileageCalculation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MileageCalculationDialog$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MileageCalculationDialog$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MileageCalculationDialog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MileageEstimateDialog$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MileageEstimateDialog$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MileageEstimateDialog$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MileageEstimateDialog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MileagePlot$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MileagePlot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/Month.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MonthIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/MonthlyTrips.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/OdometerComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/OdometerPlot$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/OdometerPlot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/PlotActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/PlotActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/PlotDateRange.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/PlotDateRangeButtons.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/PlotFontSize.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/PricePlot$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/PricePlot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R$array.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R$menu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R$styleable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R$xml.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/Settings$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/Settings$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/Settings.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/StartupActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/StartupActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/StatisticsActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/StatisticsActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/StatisticsMonthTable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/StatisticsReport.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/StatisticsSummaryTable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/StorageSelectionDialog$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/StorageSelectionDialog$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/StorageSelectionDialog$Listener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/StorageSelectionDialog$Result.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/StorageSelectionDialog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/TankNeverFilledDialog$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/TankNeverFilledDialog$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/TankNeverFilledDialog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/TripRecord.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/Units.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/UnitsDialog$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/UnitsDialog$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/UnitsDialog$Listener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/UnitsDialog$Result.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/UnitsDialog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/Utilities.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/Vehicle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/VehicleDialog$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/VehicleDialog$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/VehicleDialog$Listener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/VehicleDialog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FillUp/com/github/wdkapps/fillup/VehicleNameComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/github/wdkapps/fillup/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FillUp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/github/wdkapps/fillup/Manifest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/github/wdkapps/fillup/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/androidplot.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/dialog_vehicle.xml" afterPath="$PROJECT_DIR$/res/layout/dialog_vehicle.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-es/strings.xml" afterPath="$PROJECT_DIR$/res/values-es/strings.xml" />
     </list>
@@ -180,18 +45,31 @@
       <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.851852">
-              <caret line="254" column="76" selection-start-line="249" selection-start-column="4" selection-end-line="254" selection-end-column="76" />
+            <state vertical-scroll-proportion="-4.2777777">
+              <caret line="249" column="18" selection-start-line="249" selection-start-column="18" selection-end-line="249" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/values-es/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.829885">
-              <caret line="223" column="53" selection-start-line="223" selection-start-column="53" selection-end-line="223" selection-end-column="53" />
+            <state vertical-scroll-proportion="-4.2777777">
+              <caret line="221" column="19" selection-start-line="221" selection-start-column="19" selection-end-line="221" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dialog_vehicle.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/layout/dialog_vehicle.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -212,6 +90,7 @@
       <list>
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/res/values-es/strings.xml" />
+        <option value="$PROJECT_DIR$/res/layout/dialog_vehicle.xml" />
       </list>
     </option>
   </component>
@@ -219,8 +98,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="683" />
-    <option name="height" value="768" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -294,25 +175,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="values-es" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FillUp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FillUp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -323,6 +186,7 @@
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.WIDTH" value="390" />
   </component>
   <component name="RunManager" selected="Android Application.RunFillUp">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -507,7 +371,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="683" height="768" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -521,9 +385,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32771823" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18838304" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18376723" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26484752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21255673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -552,16 +416,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.851852">
-          <caret line="254" column="76" selection-start-line="249" selection-start-column="4" selection-end-line="254" selection-end-column="76" />
+        <state vertical-scroll-proportion="-4.2777777">
+          <caret line="249" column="18" selection-start-line="249" selection-start-column="18" selection-end-line="249" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values-es/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.829885">
-          <caret line="223" column="53" selection-start-line="223" selection-start-column="53" selection-end-line="223" selection-end-column="53" />
+        <state vertical-scroll-proportion="-4.2777777">
+          <caret line="221" column="19" selection-start-line="221" selection-start-column="19" selection-end-line="221" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/dialog_vehicle.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
