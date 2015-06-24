@@ -117,7 +117,7 @@ public class VehicleDialog {
 
 				// validate vehicle brand
 				String brand = textVehicleBrand.getText().toString().trim();
-				if (!isValidName(brand)) {
+				if (!isValidBrand(brand)) {
 					message = res.getString(R.string.toast_invalid_vehicle_brand);
 					Utilities.toast(context,message);
 					return;
@@ -125,7 +125,7 @@ public class VehicleDialog {
 
 				// validate vehicle plate
 				String plate = textVehiclePlate.getText().toString().trim();
-				if (!isValidName(plate)) {
+				if (!isValidPlate(plate)) {
 					message = res.getString(R.string.toast_invalid_vehicle_plate);
 					Utilities.toast(context,message);
 					return;
@@ -133,7 +133,7 @@ public class VehicleDialog {
 
 				// validate vehicle type
 				String type = textVehicleType.getText().toString().trim();
-				if (!isValidName(type)) {
+				if (!isValidType(type)) {
 					message = res.getString(R.string.toast_invalid_vehicle_type);
 					Utilities.toast(context,message);
 					return;
