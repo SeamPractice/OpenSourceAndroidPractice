@@ -216,5 +216,12 @@
     <!-- file paths -->
     <string name="url_help_html">file:///android_asset/help-es.html</string>
     <string name="asset_stats_top_html">stats_top_es.html</string>
-    				
+
+    <!--My spanish strings-->
+    <string name="vehicle_brand_label">Marca del vehículo</string>
+    <string name="vehicle_plate_label">Placa del vehículo</string>
+    <string name="vehicle_type_label">Tipo del vehículo</string>
+    <string name="toast_invalid_vehicle_brand">Nombre de marca inválido.</string>
+    <string name="toast_invalid_vehicle_plate">Placa de vehículo inválida.</string>
+    <string name="toast_invalid_vehicle_type">Tipo de vehículo inválido.</string>
 </resources>
